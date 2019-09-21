@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jhnnyk/Udemy-completeNodeJs-notesapp/issues"
   },
-  "homepage": "https://github.com/jhnnyk/Udemy-completeNodeJs-notesapp#readme"
+  "homepage": "https://github.com/jhnnyk/Udemy-completeNodeJs-notesapp#readme",
+  "dependencies": {
+    "validator": "^10.8.0"
+  }
 }
